@@ -28,6 +28,10 @@
   #social {
     top: 72px;
   }
+  
+  .col-3 {
+    column-count: 2;
+  }
 }
 
 @media screen and (max-width: 750px) {
